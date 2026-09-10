@@ -56,11 +56,13 @@ Arbetet ska ske genom:
 ```text
 main
  │
- ├── feature/register
- ├── feature/login
- ├── feature/create-booking
- ├── feature/get-bookings
- └── ...
+ └── dev
+      │
+      ├── feature/register
+      ├── feature/login
+      ├── feature/create-booking
+      ├── feature/get-bookings
+      └── ...
 ```
 
 Använd **Pull Requests och Code Review** innan kod mergas till `main`.

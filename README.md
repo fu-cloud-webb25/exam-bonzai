@@ -1,5 +1,7 @@
 # Gruppexamination: Bonz.ai Booking API
 
+[Inspelning: Genomgång av gruppexamination](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQDkHTjRUaODRbq8VRBsP8dMARw5yZDj5r6oKE2TnbqscnE?e=m1BzYy)
+
 ## Bakgrund
 
 Bonz.ai är ett modernt hotell som strävar efter att ligga i framkant när det gäller användningen av teknik för att förbättra kundupplevelsen.
